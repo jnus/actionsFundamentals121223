@@ -1,4 +1,4 @@
-# GitHub Actions Fundamentals 121223
+# GitHub Actions Fundamentals 121223 Tuesday
 
 Repo for the `GitHub Actions Fundamentals` training.
 
